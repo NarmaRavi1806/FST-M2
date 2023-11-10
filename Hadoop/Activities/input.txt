@@ -1,0 +1,6 @@
+Welcome To Hadoop
+FST Module 2 class
+session 24
+30-10-2023
+Creating a new file 
+in linux
